@@ -24,6 +24,6 @@ Additional:
 - [Quasar](http://quasar-framework.org/) - Vue.js framework for developing hybrid applications
 - [Weex](https://weex.apache.org/) - Vue.js framework for developing native applications
 
-# Github
-
+# Github & workflow
+- [Project Guidelines](https://github.com/wearehive/project-guidelines) - Git workflow and recommendations for working with a team
 - [Git Tip: Deleting Old Local Branches](http://erikaybar.name/git-deleting-old-local-branches)
