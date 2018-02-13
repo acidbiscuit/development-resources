@@ -18,6 +18,10 @@ A list of essential and useful javascript resources and articles
 - [Vue.js Official SSR Docs](https://ssr.vuejs.org/) - Official recommendations for using Vue.js with Server Side Rendering
 - [Nuxt.js Official Docs](https://nuxtjs.org/guide/installation) - Documentation for Nuxt.js framework to build SSR applications with Vue.js
 
+Tooling:
+
+- [Global Event Bus](https://alligator.io/vuejs/global-event-bus/) - A usefull way to emit/listen to events in Vue application
+
 Additional:
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) - Collection of useful Vue.js plugins, libraries, articles and examples
