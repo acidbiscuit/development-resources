@@ -22,6 +22,10 @@ Tooling:
 
 - [Global Event Bus](https://alligator.io/vuejs/global-event-bus/) - A usefull way to emit/listen to events in Vue application
 
+Testing:
+- [Vue official test utils](https://vue-test-utils.vuejs.org/)
+- [Tests with Jest & Vue-test-utils](https://alexjoverm.github.io/2017/08/21/Write-the-first-Vue-js-Component-Unit-Test-in-Jest)
+
 Additional:
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) - Collection of useful Vue.js plugins, libraries, articles and examples
