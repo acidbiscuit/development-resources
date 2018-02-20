@@ -30,6 +30,7 @@ Additional:
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) - Collection of useful Vue.js plugins, libraries, articles and examples
 - [Quasar](http://quasar-framework.org/) - Vue.js framework for developing hybrid applications
+- [NativeScript Vue] - Framework for development native applications with Vue.js
 - [Weex](https://weex.apache.org/) - Vue.js framework for developing native applications
 
 # Github & workflow
