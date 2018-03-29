@@ -7,6 +7,9 @@ A list of essential and useful javascript resources and articles
 - [JS things I never knew existed](https://air.ghost.io/js-things-i-never-knew-existed/)
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
 
+## How Javascript Works
+- [What the heck is the Event Loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
 # Vue
 - [Vue.js Official Docs](https://vuejs.org/v2/guide/)
 - [Vue.js 2 - The Complete Guide](https://coursehunters.net/course/udemy-vuejs-2) - The most essential video course that covers most of documentation very well
