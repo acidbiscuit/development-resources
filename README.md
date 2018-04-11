@@ -25,6 +25,7 @@ A list of essential and useful javascript resources and articles
 Tooling:
 
 - [Global Event Bus](https://alligator.io/vuejs/global-event-bus/) - A usefull way to emit/listen to events in Vue application
+- [Vue-multiselect](https://vue-multiselect.js.org/) - Neat multiselect component with rich API
 
 Testing:
 - [Vue Test Utils Official Docs](https://vue-test-utils.vuejs.org/)
