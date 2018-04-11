@@ -20,6 +20,7 @@ A list of essential and useful javascript resources and articles
 - [Vue.js Official Styleguide](https://vuejs.org/v2/style-guide/) - Official recommendation for writing Vue.js components
 - [Vue.js Official SSR Docs](https://ssr.vuejs.org/) - Official recommendations for using Vue.js with Server Side Rendering
 - [Nuxt.js Official Docs](https://nuxtjs.org/guide/installation) - Documentation for Nuxt.js framework to build SSR applications with Vue.js
+- [Vue.js Advanced Features from the Ground Up with Evan You](https://frontendmasters.com/workshops/vue-advanced-features/) [download](https://rutracker.org/forum/viewtopic.php?t=5459407)
 
 Tooling:
 
