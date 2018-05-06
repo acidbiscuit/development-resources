@@ -28,8 +28,14 @@ Tooling:
 - [Vue-multiselect](https://vue-multiselect.js.org/) - Neat multiselect component with rich API
 
 Testing:
+
 - [Vue Test Utils Official Docs](https://vue-test-utils.vuejs.org/)
 - [Tests with Jest & Vue-test-utils](https://alexjoverm.github.io/2017/08/21/Write-the-first-Vue-js-Component-Unit-Test-in-Jest)
+
+Advanced techniques:
+
+- [7 Secret Patterns Vue Consultants Don’t Want You to Know](https://www.youtube.com/watch?v=7YZ5DwlLSt8)
+- [Renderless components](https://adamwathan.me/renderless-components-in-vuejs/)
 
 Additional:
 
