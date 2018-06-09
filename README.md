@@ -1,6 +1,11 @@
 # Web dev resources
 A list of essential and useful javascript resources and articles
 
+# CSS
+
+- [How CSS works: Parsing & painting CSS in the critical rendering path](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
+- [How CSS works: Understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
+
 # Javascript
 
 - [ECMAScript 6 features](https://github.com/lukehoban/es6features)
