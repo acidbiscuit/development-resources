@@ -18,7 +18,7 @@ A list of essential and useful javascript resources and articles
 
 # Vue
 - [Vue.js Official Docs](https://vuejs.org/v2/guide/)
-- [Vue.js 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) [watch](https://coursehunters.net/course/udemy-vuejs-2) - The most essential video course that covers most of documentation very well
+- [Vue.js 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - The most essential video course that covers most of documentation very well ([watch](https://coursehunters.net/course/udemy-vuejs-2))
 - [Vue.js CLI](https://github.com/vuejs/vue-cli) - Command line interface for starting Vue.js projects
 - [Vue DevTools Chrome extension](https://github.com/vuejs/vue-devtools) - Browser extension for debugging Vue.js applicaion
 - [Vue Router Official Docs](https://router.vuejs.org/) - Official documentation for Vue.js router
