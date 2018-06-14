@@ -14,6 +14,7 @@ A list of essential and useful javascript resources and articles
 
 ## How Javascript Works
 - [What the heck is the Event Loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
 # Vue
 - [Vue.js Official Docs](https://vuejs.org/v2/guide/)
