@@ -18,7 +18,7 @@ A list of essential and useful javascript resources and articles
 
 # Vue
 - [Vue.js Official Docs](https://vuejs.org/v2/guide/)
-- [Vue.js 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - The most essential video course that covers most of documentation very well ([watch](https://coursehunters.net/course/udemy-vuejs-2))
+- [Vue.js 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - The most essential video course that covers most of documentation very well
 - [Vue.js CLI](https://github.com/vuejs/vue-cli) - Command line interface for starting Vue.js projects
 - [Vue DevTools Chrome extension](https://github.com/vuejs/vue-devtools) - Browser extension for debugging Vue.js applicaion
 - [Vue Router Official Docs](https://router.vuejs.org/) - Official documentation for Vue.js router
@@ -26,7 +26,7 @@ A list of essential and useful javascript resources and articles
 - [Vue.js Official Styleguide](https://vuejs.org/v2/style-guide/) - Official recommendation for writing Vue.js components
 - [Vue.js Official SSR Docs](https://ssr.vuejs.org/) - Official recommendations for using Vue.js with Server Side Rendering
 - [Nuxt.js Official Docs](https://nuxtjs.org/guide/installation) - Documentation for Nuxt.js framework to build SSR applications with Vue.js
-- [Vue.js Advanced Features from the Ground Up with Evan You](https://frontendmasters.com/workshops/vue-advanced-features/) ([download](https://rutracker.org/forum/viewtopic.php?t=5459407))
+- [Vue.js Advanced Features from the Ground Up with Evan You](https://frontendmasters.com/workshops/vue-advanced-features/)
 
 Tooling:
 
