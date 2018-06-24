@@ -37,6 +37,7 @@ Testing:
 
 - [Vue Test Utils Official Docs](https://vue-test-utils.vuejs.org/)
 - [Tests with Jest & Vue-test-utils](https://alexjoverm.github.io/2017/08/21/Write-the-first-Vue-js-Component-Unit-Test-in-Jest)
+- [A curated list of Vue Test Resources](https://github.com/szafran89/vue-test-resources?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue.js%20Feed)
 
 Advanced techniques:
 
