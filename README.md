@@ -11,6 +11,7 @@ A list of essential and useful javascript resources and articles
 - [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [JS things I never knew existed](https://air.ghost.io/js-things-i-never-knew-existed/)
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
+- [A collection of awesome browser-side JavaScript libraries](https://github.com/sorrycc/awesome-javascript#node-powered-cms-frameworks)
 
 ## How Javascript Works
 - [What the heck is the Event Loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
