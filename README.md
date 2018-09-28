@@ -45,6 +45,7 @@ Advanced techniques:
 - [7 Secret Patterns Vue Consultants Don’t Want You to Know](https://www.youtube.com/watch?v=7YZ5DwlLSt8)
 - [Renderless components](https://adamwathan.me/renderless-components-in-vuejs/)
 - [Universal application code structure in Nuxt.js](https://medium.com/@krutie/universal-application-code-structure-in-nuxt-js-4cd014cc0baa)
+- [Vue & TypeScript Up and Running - Daniel Rosenwasser at VueConf.US](https://www.youtube.com/watch?v=wDYS6FIXkAc)
 
 Additional:
 
