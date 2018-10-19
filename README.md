@@ -8,6 +8,7 @@ A list of essential and useful javascript resources and articles
 
 # Javascript
 
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [JS things I never knew existed](https://air.ghost.io/js-things-i-never-knew-existed/)
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
