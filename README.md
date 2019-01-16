@@ -47,6 +47,7 @@ Advanced techniques:
 - [Renderless components](https://adamwathan.me/renderless-components-in-vuejs/)
 - [Universal application code structure in Nuxt.js](https://medium.com/@krutie/universal-application-code-structure-in-nuxt-js-4cd014cc0baa)
 - [Vue & TypeScript Up and Running - Daniel Rosenwasser at VueConf.US](https://www.youtube.com/watch?v=wDYS6FIXkAc)
+- [How to Drastically Reduce Estimated Input Latency and Time to Interactive of SSR Vue.js Applications](https://markus.oberlehner.net/blog/how-to-drastically-reduce-estimated-input-latency-and-time-to-interactive-of-ssr-vue-applications)
 
 Additional:
 
