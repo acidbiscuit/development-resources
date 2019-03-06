@@ -60,9 +60,13 @@ Additional:
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - Git workflow and recommendations for working with a team
 - [Git Tip: Deleting Old Local Branches](http://erikaybar.name/git-deleting-old-local-branches)
 
-# UX & UI
+# UX
 
 - [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
+
+# UI
+
+- [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
 
 # Node.js
 
