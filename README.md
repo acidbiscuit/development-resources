@@ -66,7 +66,7 @@ Additional:
 
 # UI
 
-- [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#animation-tools)
+- [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 # Node.js
 
