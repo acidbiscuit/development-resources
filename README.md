@@ -63,6 +63,7 @@ Additional:
 # UX
 
 - [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
+- [Web Accessibility Guide](https://webaccessibility.guide/?utm_source=CSS-Weekly&utm_campaign=Issue-354&utm_medium=email)
 
 # UI
 
