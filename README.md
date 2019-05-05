@@ -1,6 +1,10 @@
 # Web dev resources
 A list of essential and useful javascript resources and articles
 
+# Front-end
+
+- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
 # CSS
 
 - [How CSS works: Parsing & painting CSS in the critical rendering path](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
