@@ -64,14 +64,12 @@ Additional:
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - Git workflow and recommendations for working with a team
 - [Git Tip: Deleting Old Local Branches](http://erikaybar.name/git-deleting-old-local-branches)
 
-# UX
-
-- [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
-- [Web Accessibility Guide](https://webaccessibility.guide/?utm_source=CSS-Weekly&utm_campaign=Issue-354&utm_medium=email)
-
-# UI
+# UI/UX
 
 - [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+- [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
+- [Web Accessibility Guide](https://webaccessibility.guide/?utm_source=CSS-Weekly&utm_campaign=Issue-354&utm_medium=email)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 # Node.js
 
